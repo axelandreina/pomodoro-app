@@ -1,0 +1,41 @@
+body {
+  background-color: #5129efe3;
+  color: #fff;
+  font-family: 'Fira Mono', monospace;
+}
+
+#root {
+  height: 100%;
+}
+
+/* .robot {
+  max-width: 0%;
+} */
+
+.container {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.App {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  height: 100vh;
+  align-items: center;
+}
+
+.text-container {
+  font-size: 30px;
+}
+
+.timer {
+  font-size: 100px;
+}
+
+.App .footer {
+  display: flex;
+  
+}
